@@ -1,0 +1,22 @@
+.foodList>img{
+    width:50%;
+    height:300px;
+}
+
+h3{
+    color:rgb(158, 135, 179);
+}
+.foodList{
+    border-top: 2px solid black;
+    margin-top: 3%;
+}
+
+button{
+    width:10%;
+    height:30px;
+    font-size: 20px;
+    background-color: burlywood;
+    color: #fff;
+    border: none;
+
+}

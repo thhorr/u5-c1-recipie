@@ -1,0 +1,14 @@
+label{
+    color: brown;
+    font-weight: bold;
+}
+
+.button{
+    width:30%;
+    height:30px;
+    font-size: 20px;
+    margin-left: 35%;
+    background-color: yellow;
+    color: black;
+    border: none;
+}

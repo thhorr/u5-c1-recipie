@@ -1,0 +1,29 @@
+.print {
+   border: 2px solid red;
+}
+
+.input > Form {
+    width: 30%;
+    height: 400px;
+    display: grid;
+    grid-template-rows: auto;
+    border:2px solid black;
+    grid-gap: 3px;
+    text-align: center;
+    margin-left: 35%;
+}
+
+input{
+    width: 90%;
+    margin-left:5%
+}
+
+button{
+    width:10%;
+    height:30px;
+    font-size: 20px;
+    background-color: rgb(206, 40, 184);
+    color: #fff;
+    border: none;
+
+}
